@@ -1,0 +1,282 @@
+#head{
+    background-color:transparent;
+    width:300px;
+    height:300px;
+    align-content: center;
+    position :relative;
+}
+.body{}
+.hair{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:85%;top:23%;
+transform: rotate(30deg);}
+
+.hair1{background-color: black;
+width:15px;
+height:50px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:25%;top:20%;}
+
+.hair2{background-color: black;
+width:15px;
+height:50px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:30%;top:20%;}
+
+.hair3{background-color: black;
+width:15px;
+height:50px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:35%;top:20%;}
+
+.hair4{background-color: black;
+width:15px;
+height:70px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:40%;top:18%;}
+
+.hair5{background-color: black;
+width:15px;
+height:70px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:45%;top:17%;}
+
+.hair6{background-color: black;
+width:15px;
+height:70px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:50%;top:16%;}
+
+.hair65{background-color: black;
+width:15px;
+height:70px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:55%;top:15%;}
+
+.hair7{background-color: black;
+width:15px;
+height:70px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:60%;top:16%;}
+
+.hair8{background-color: black;
+width:15px;
+height:50px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:65%;top:17%;}
+
+.hair9{background-color: black;
+width:15px;
+height:50px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:70%;top:18%;}
+
+.hair10{background-color: black;
+width:15px;
+height:50px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:75%;top:19%;}
+
+.hair11{background-color: black;
+width:15px;
+height:50px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:80%;top:20%;}
+
+.hair12{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:85%;top:20%;}
+
+.haira{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:85%;top:25%;}
+
+.hairb{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:85%;top:35%;}
+
+.hairc{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:85%;top:30%;}
+
+.haird{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:81%;top:50%;}
+
+.haire{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:82%;top:45%;}
+
+.hairf{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:83%;top:40%;}
+
+.hairg{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:29%;top:35%;}
+
+.hairh{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:29%;top:30%;}
+
+.hairi{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:29%;top:25%;}
+
+.hairj{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:29%;top:20%;
+transform: rotate(290deg);}
+.hairk{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:33%;top:50%;
+transform: rotate(270deg);}
+
+.hairl{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:32%;top:45%;
+transform: rotate(270deg);}
+
+.hairm{background-color: black;
+width:15px;
+height:30px;
+border-radius:8px 8px 0 0px;
+position:absolute;left:31%;top:40%;
+transform: rotate(270deg);}
+
+#A{transform: rotate(90deg);}
+#B{transform: rotate(270deg);}
+
+.shape{width:20px;height:30px;background-color: black; position: absolute;left:34%;top:32%;}
+
+.shape1{width:20px;height:30px;background-color: black; position: absolute;left:80%;top:32%;}
+
+.face{width:140px;height:180px; background-color: #5c2200;
+position:absolute;
+left:37%;
+top:34%;
+border-radius:0 0px 70px 70px;
+border-width:0 0 20px 20px;
+border-color: transparent transparent transparent red;}
+
+.eye{width:40px; height:20px;
+background-color: white;
+border-radius: 50% 50% 50% 50%;
+position:absolute;left:40%;top:47%;}
+
+.eye1{width:40px; height:20px;
+background-color: white;
+border-radius: 50% 50% 50% 50%;
+position:absolute;left:65%;top:47%;}
+
+.eyeball{width:10px;height:10px;
+background-color: black;
+border-radius: 50%;
+position :absolute;
+left:40%;
+top:49%;
+animation-name: eye;
+animation-iteration-count: infinite;
+animation-duration: 2s;
+}
+
+.eyeball1{width:10px;height:10px;
+background-color: black;
+border-radius: 50%;
+position :absolute;
+left:67%;
+top:48%;
+animation-name: eye1;
+animation-iteration-count: infinite;
+animation-duration: 2s;
+}
+.mouth{position:absolute;left:52%;top:71.5%;font-size: 40px;animation-name: tongue;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+    }
+
+@keyframes eye {0%{left:40%;
+top:49;}100%{left:47%;top:49%;}
+    
+}
+
+@keyframes eye1 {0%{left:67%;
+top:50%;}100%{left:72%;top:49%;}
+    
+}
+
+.eyeb{width:20px;height:5px;
+background-color: black;
+border-radius: 20px;
+position:absolute;
+left:69%;top:42%;}
+
+.eyeb1{width:20px;height:5px;
+background-color: black;
+border-radius: 20px;
+position:absolute;
+left:45%;top:42%;}
+
+.nose{position:absolute;
+left:58%;top:55%;}
+
+.tonge{
+    width:23px;
+    height:30px;
+    background-color: orangered;
+    border-radius: 0 0 30px 30px;
+    position: absolute ;
+    left:56%;
+    top:77%;
+    
+}
+@keyframes tongue {0%{opacity:0;}
+100%{opacity:100%;}
+    
+}
+
+.block{width:50px;
+height:30px;
+background-color: #5c2200;
+position: absolute;
+left:52%;
+top:68%;}
+
+.beard{width:120px;height:70px; background-color: black;position: absolute;top:210px;left:40%;
+border-radius: 0 0 100% 100%;}
+
+.bearda{width:137px;height:42px; background-color: black;position: absolute;top:210px;left:37.5%;
+border-radius: 0 0 100% 100%;}
+
+.space{width: 60px;height:40px;background-color:#5c2200 ;
+border-radius: 30px;position: absolute;top:220px;left:50%;}
+
+.blocky{width:45px;height:19px;background-color:#5c2200 ;position: absolute;top:221px;left:52%;border-radius: 30px 30px 0 0;}
